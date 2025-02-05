@@ -12,11 +12,12 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
 </div>
-<hr>
+
 
 <!--
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinRnbrg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axlerquiza&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 **axlerquiza/axlerquiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
