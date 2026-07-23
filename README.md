@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h2>Hi, I'm Axl Erquiza 👋</h2>
-  <h4>Junior Data Engineer | Python & SQL | Building scalable data pipelines</h4>
+  <h4>Data Engineer | Python & SQL | Building scalable data pipelines</h4>
 </div>
 
 <h4>🔧 Data Engineering & Processing</h4>
